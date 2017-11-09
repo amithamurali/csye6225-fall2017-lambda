@@ -1,1 +1,1 @@
-# csye6225-fall2017-lambda
+Sample lambda function using Java8.
